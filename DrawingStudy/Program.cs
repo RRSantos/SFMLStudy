@@ -7,6 +7,7 @@ namespace DrawingStudy
     {
         static void Main()
         {
+            //Teste
             AbstractCanvas canvas = new FlowerCanvas();
             canvas.Run();
         }
